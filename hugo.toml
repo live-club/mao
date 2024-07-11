@@ -1,4 +1,4 @@
 baseURL = 'https://juneitei.github.io/'
 languageCode = 'ja-jp'
-title = '⬅'
+title = '←'
 theme = 'holy'
