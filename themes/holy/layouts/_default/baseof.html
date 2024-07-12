@@ -8,7 +8,9 @@
         {{- block "side" . }}{{- end }}
         <div class="max-w:700 w:full box:content-box">
             {{- block "main" . }}{{- end }}
-            {{- partial "footer.html" . -}}
+            {{ if .IsHome }}
+                {{- partial "footer.html" . -}}
+            {{ end }}
         </div>
     </div>
 </body>
