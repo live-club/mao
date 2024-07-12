@@ -2,11 +2,3 @@ baseURL = 'https://juneitei.github.io/'
 languageCode = 'ja-jp'
 title = '☰'
 theme = 'holy'
-enableInlineShortcodes = true
-[privacy]
-  [privacy.instagram]
-    disable = false
-    simple = true
-
-[params]
-instagram = "https://www.instagram.com/dadada.maomaomao/"   
