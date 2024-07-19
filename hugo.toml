@@ -1,4 +1,4 @@
-baseURL = 'https://juneitei.github.io/'
+baseURL = 'https://dm-o.netlify.app/'
 languageCode = 'ja-jp'
 title = '☰'
 theme = 'holy'
